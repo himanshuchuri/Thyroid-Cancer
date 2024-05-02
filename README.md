@@ -9,3 +9,7 @@ The average diagnosis of 51. According to my previous visualization of cancer am
 (Link:https://public.tableau.com/shared/2ZRW5QZQJ?:display_count=n&:origin=viz_share_link)
 
 ![Dashboard Image](README_PIcs/Cancer%20Analysis.png)
+
+Until recently, rate of new thyroid cancers was growing faster than for any other cancer in the US. This was largely due to increased detection during imaging tests such as CT or MRI scans that were done for other medical problems. These sensitive tests can sometimes detect small thyroid nodules that might not otherwise have been found (and many of which might never have caused any problems). However, due in part to adoption of more stringent criteria for diagnosing thyroid cancer, the incidence rate has declined by about 2% each year since 2014.
+
+
